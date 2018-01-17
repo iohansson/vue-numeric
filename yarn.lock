@@ -24,6 +24,13 @@ accounting-js@^1.1.1:
     is-string "^1.0.4"
     object-assign "^4.0.1"
 
+"accounting-js@github:iohansson/accounting-js":
+  version "1.1.2"
+  resolved "https://codeload.github.com/iohansson/accounting-js/tar.gz/e403f0c0db8ecd5f8b22782ff3cea59f0328be63"
+  dependencies:
+    is-string "^1.0.4"
+    object-assign "^4.0.1"
+
 acorn-dynamic-import@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/acorn-dynamic-import/-/acorn-dynamic-import-2.0.2.tgz#c752bd210bef679501b6c6cb7fc84f8f47158cc4"

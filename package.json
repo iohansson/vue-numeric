@@ -25,7 +25,7 @@
   "homepage": "https://github.com/kevinongko/vue-numeric#readme",
   "license": "MIT",
   "dependencies": {
-    "accounting-js": "^1.1.1"
+    "accounting-js": "github:iohansson/accounting-js"
   },
   "scripts": {
     "test": "cross-env BABEL_ENV=test ./node_modules/.bin/karma start test/karma.config.js",
