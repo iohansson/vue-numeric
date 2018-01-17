@@ -17,16 +17,9 @@ accepts@1.3.3:
     mime-types "~2.1.11"
     negotiator "0.6.1"
 
-accounting-js@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/accounting-js/-/accounting-js-1.1.1.tgz#7fe4b3f70c01ebe0b85c02c5f107f1393b880c9e"
-  dependencies:
-    is-string "^1.0.4"
-    object-assign "^4.0.1"
-
-"accounting-js@github:iohansson/accounting-js":
+"accounting-js@https://github.com/iohansson/accounting-js.git":
   version "1.1.2"
-  resolved "https://codeload.github.com/iohansson/accounting-js/tar.gz/e403f0c0db8ecd5f8b22782ff3cea59f0328be63"
+  resolved "https://github.com/iohansson/accounting-js.git#b178e1733832830c0ae340d1aea1a7ce4aa190ed"
   dependencies:
     is-string "^1.0.4"
     object-assign "^4.0.1"
